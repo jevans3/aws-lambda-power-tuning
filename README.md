@@ -1,3 +1,9 @@
+#forked from alexcasalboni/aws-lambda-power-tuning
+#jevans3
+
+#customizing for Infor Archectectural Solutions Discovery phase
+
+
 # AWS Lambda Power Tuning - made with [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 Step Functions state machine generator for AWS Lambda Power Tuning.
 
